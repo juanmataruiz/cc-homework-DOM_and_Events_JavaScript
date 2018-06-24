@@ -1,0 +1,20 @@
+body {
+  /* background-color: #7FFFD4; */
+  background: #F2FFFB -webkit-gradient(linear, left top, left bottom, from(#4BD9A9), to(#F2FFFB)) no-repeat;
+  font-family: 'IM Fell English SC', serif;
+}
+
+#new_item_form, .list {
+  max-width: 600px;
+      background: #FAFAFA;
+      padding: 30px;
+      margin: 25px;
+      box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+      border-radius: 10px;
+      border: 6px solid #305A72;
+}
+
+#new_item_form {
+  text-align: left;
+  max-width: 350px;
+}
